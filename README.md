@@ -1,7 +1,5 @@
 # 📄 PDF to Word Converter
 
-[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
 Convert PDF files into **editable Word documents** instantly with this **Streamlit Cloud app**. Perfect for students, professionals, and freelancers.
 
 ---
@@ -54,7 +52,7 @@ pdf-to-word-streamlit/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdf-to-word-streamlit.git
+git clone https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app.git
 cd pdf-to-word-streamlit
 ````
 
@@ -89,18 +87,3 @@ Built with ❤️ using Python and Streamlit.
 * Works best for PDFs < 50 pages (memory limits).
 
 ---
-
-## 🌟 Optional Enhancements
-
-* Dark mode toggle
-* Tabs for **Converter / About / Credits**
-* OCR support for scanned PDFs
-* Batch conversion for multiple PDFs
-* Preview PDF pages before conversion
-
----
-
-``
-
-Do you want me to do that next?
-```
