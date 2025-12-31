@@ -98,7 +98,7 @@ with tab1:
 # ================= TAB 2: About =================
 with tab2:
     st.markdown('<div class="card">', unsafe_allow_html=True)
-    st.subheader("ℹ️ About This App")
+    st.subheader("About This App")
     st.write("""
 This **PDF to Word Converter** allows you to transform PDFs into editable Word documents instantly.  
 
@@ -106,7 +106,6 @@ This **PDF to Word Converter** allows you to transform PDFs into editable Word d
 - Works directly in the browser (Streamlit Cloud compatible)
 - Editable Word output
 - Supports multiple PDF pages
-- Clean and responsive UI
 
 **Tech Stack:**
 - Python
@@ -118,18 +117,15 @@ This **PDF to Word Converter** allows you to transform PDFs into editable Word d
 # ================= TAB 3: Credits =================
 with tab3:
     st.markdown('<div class="card">', unsafe_allow_html=True)
-    st.subheader("🏷️ Credits")
+    st.subheader("Credits")
     st.write("""
 **Developed by:**  
 **Muhammad Asif**  
 BS Computer Science | University of Veterinary & Animal Sciences (UVAS), Ravi Campus
-
-🔗 GitHub: [yourusername](https://github.com/yourusername)  
-📧 Contact: your.email@example.com  
 
 Built with ❤️ using Streamlit.
 """)
     st.markdown('</div>', unsafe_allow_html=True)
 
 # ---------------- FOOTER ----------------
-st.markdown('<div class="footer">Muhammad Asif | UVAS Ravi Campus</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Muhammad Asif</div>', unsafe_allow_html=True)
