@@ -2,6 +2,9 @@
 
 Convert PDF files into **editable Word documents** instantly with this **Streamlit Cloud app**. Perfect for students, professionals, and freelancers.
 
+## 🖥 Live Demo
+
+[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf2word-convertor.streamlit.app/)
 ---
 
 ## 🚀 Features
@@ -26,10 +29,6 @@ Convert PDF files into **editable Word documents** instantly with this **Streaml
 [![pdf2docx](https://img.shields.io/badge/pdf2docx-0.5.7-red?style=for-the-badge)](https://pypi.org/project/pdf2docx/)
 
 ---
-
-## 🖥 Live Demo
-
-[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf2word-convertor.streamlit.app/)
 
 ---
 
